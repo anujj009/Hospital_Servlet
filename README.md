@@ -8,11 +8,34 @@ It provides some enhanced features like admin can track the records of doctors a
 
 **password** - admin
 
-**Technologies Used:**
+# Technologies Used:
 - Java
 - JSP
 - Servlet
+- HTML
+- CSS
+- BootStrap
 - MySql
+- Apache Tomcat Server
+
+# Features:
+
+**Doctor module:**
+
++ Separate accounts for doctors
++ Each patient's previous visit history is easy to access.
++ A doctor can generate a prescription and it will be automatically sent to the receptionist.
+
+**Receptionist module:**
+
+- Register/add new patient info.
+- Modify patient's personal details
+
+**Administrator module:**
+
+- Add new employee for the following roles, i) Doctor ii) Receptionist 
+- Remove/edit existing employees.
+- Displays currently active employees in the system.
   
 **Appointment Form**
 
@@ -22,6 +45,7 @@ It provides some enhanced features like admin can track the records of doctors a
 
 ![hsp](https://github.com/anujj009/Hospital_Servlet/assets/140200498/d0761a13-c9db-4071-a0ff-0d6c8519a2ac)
 
-**Doctor Dashboard**
+**User Registration**
 
-![hsp doc](https://github.com/anujj009/Hospital_Servlet/assets/140200498/a974c17f-de24-48f2-8478-afd26fe9bcb0)
+![hsp_user](https://github.com/anujj009/Hospital_Servlet/assets/140200498/41ef0a9a-65c0-442b-8d23-811bd1995f74)
+
